@@ -3,7 +3,7 @@
 > Um agente de IA que traduz finanças em linguagem humana, usando os dados do próprio usuário como exemplo prático.
 
 ---
-
+![Interface do Olirum](./screenshot.jpg)
 ---
 
 ## O Problema
